@@ -12,3 +12,6 @@ https://docs.google.com/spreadsheets/d/1QSusUoxxELSs6t1Ygr8h9ihjeaGuz69J8FquXm-_
 
 Survey Draft:
 https://docs.google.com/document/d/1jabmAFTB6sUcCVaznPBVMDCMsfFc-Sa7x2R_pIdUJTg/edit?usp=sharing
+
+Jamboard (Records of previous work) : 
+https://jamboard.google.com/d/1gjZRLKDVsOAe27osltb4GAtRL_7eiXoRo9Ex7H0QntE/edit?usp=sharing
