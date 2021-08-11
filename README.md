@@ -15,3 +15,6 @@ https://docs.google.com/document/d/1jabmAFTB6sUcCVaznPBVMDCMsfFc-Sa7x2R_pIdUJTg/
 
 Jamboard (Records of previous work) : 
 https://jamboard.google.com/d/1gjZRLKDVsOAe27osltb4GAtRL_7eiXoRo9Ex7H0QntE/edit?usp=sharing
+
+Event 1:
+https://docs.google.com/document/d/1ssM5OTr-nEBVU0NnBva90Da3-t6RzPqoB3yVMowJXbA/edit?usp=sharing
