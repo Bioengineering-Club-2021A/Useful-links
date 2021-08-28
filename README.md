@@ -24,5 +24,6 @@ https://docs.google.com/document/d/1ssM5OTr-nEBVU0NnBva90Da3-t6RzPqoB3yVMowJXbA/
 
 Holistic Event 1:
 Registration link-https://forms.gle/jcmYkPNcDFDtkfjC7
+
 Feedback link-https://docs.google.com/forms/d/e/1FAIpQLSdDb46Li-yuObBj5SFlxHGFKKpSdu5TUEp_UKYXVx831OKmiA/viewform?usp=sf_link
 
